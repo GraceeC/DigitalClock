@@ -1,16 +1,19 @@
-body {
-    background-attachment: fixed;
-    background: linear-gradient(to top left, #ff99ff , #ff0066 );
-    font-family: 'Quicksand', sans-serif;
-    font-family: 'Libre Baskerville', serif;
-    text-align: center;
-    padding-top: 25%;
-    height: 1000px; 
-   
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
-#clock{
-    font-size:150px;
+body{
+  background-color:palevioletred;
+  padding-top: 25%;
+  background-size: cover;
+  
+  text-align: center;
 }
-#day{
-    font-size:90px;    
+#clock {
+  font-size: 150px;
+  
+}
+#day {
+  font-size: 90px;
 }
