@@ -1,0 +1,16 @@
+body {
+    background-attachment: fixed;
+    background: linear-gradient(to top left, #ff99ff , #ff0066 );
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    padding-top: 25%;
+    height: 1000px; 
+   
+}
+h1{
+    font-size:150px;
+}
+p{
+    font-size:90px;    
+}
