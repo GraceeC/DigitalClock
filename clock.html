@@ -1,29 +1,14 @@
-<!DOCTYPE html>
-<html class="no-js">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Digital Clock</title>
-        <meta name="description" content="Digital Clock">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="clock.css">
-        <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
-    </head>
-    <body>
-        <div id="main"> 
-        <div id="clock"> 
-        <span id= "hours"></span>
-        <span id= "minutes"></span>
-        <span id= "seconds"></span>
-    </div>
-        <div id= "day"> 
-        <span id= "months">November</span>
-        <span id= "day">6</span>
-        <span id= "year">2019</span>
-    </div>
-</div>
-   
-        
-        <script src="clock.js" async defer></script>
-    </body>
-</html>
+//diGital Functio will hold all storage
+function digitalClock(){
+//using Javascript build in Object Date for var value
+let fullDate = new Date();
+let hours = fullDate.getHours();
+let minutes = fullDate.getMinutes();
+let seconds = fullDate.getSeconds();
+console.log(fullDate);
+
+//grabbing the id of the span to give var value from document
+document.getElementById('hours').innerHTML = hours;
+document.getElementById('minutes').innerHTML = minutes;
+document.getElementById('seconds').innerHTML = seconds;
+}
