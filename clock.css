@@ -7,8 +7,8 @@ body{
   background-color:palevioletred;
   padding-top: 25%;
   background-size: cover;
-  
   text-align: center;
+
 }
 #clock {
   font-size: 150px;
@@ -16,4 +16,13 @@ body{
 }
 #day {
   font-size: 90px;
+}
+#button{
+  background-color:white;
+  border-radius: 35%;
+  height:15%;
+  text-align:Center;
+  margin-left: 5%;
+  padding: 15px 32px;
+  font-size:16px;
 }
