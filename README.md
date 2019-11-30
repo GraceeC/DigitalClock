@@ -7,7 +7,7 @@ For my Clock application I applied the knowlege I learned to use built in object
 [Click Here](https://graceec.github.io/DigitalClock/)
 
 
-<img src ="language.png" width="200" height="100">
+<img src ="language.jpg" width="200" height="100">
 
 
 ## Technique
