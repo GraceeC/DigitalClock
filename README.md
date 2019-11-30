@@ -4,7 +4,7 @@
 A Digital Application using HTML, CSS and JavaScript
 
 ## View my Digital Clock
-[https://graceec.github.io/DigitalClock/]
+[Click Here](https://graceec.github.io/DigitalClock/)
 
 
 ### Summary
