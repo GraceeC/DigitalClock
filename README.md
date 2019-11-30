@@ -6,7 +6,7 @@ For my Clock application I applied the knowlege I learned to use built in object
 #### View my Digital Clock
 [Click Here](https://graceec.github.io/DigitalClock/)
 
-[https://medium.com/@UITstartup/html-css-and-javascript-659752dd302d]
+[language.jpn]
 
 ## Technique
 A Digital Application using HTML, CSS and JavaScript
