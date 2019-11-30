@@ -1,7 +1,4 @@
-# DigitalClock
+# DigitalClock Application
 
 
-##Header Two
 
-
-##Header Three
