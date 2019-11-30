@@ -6,7 +6,9 @@ For my Clock application I applied the knowlege I learned to use built in object
 #### View my Digital Clock
 [Click Here](https://graceec.github.io/DigitalClock/)
 
-[language.jpg]
+
+<img src ="language.png" width="200" height="100">
+
 
 ## Technique
 A Digital Application using HTML, CSS and JavaScript
