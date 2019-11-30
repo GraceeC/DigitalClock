@@ -1,12 +1,12 @@
 # DigitalClock Application
 
-## Technique
-A Digital Application using HTML, CSS and JavaScript
+### Summary
+For my Clock application I applied the knowlege I learned to use built in objects using the Date structure as well as concatenate month, day and year. 
 
 ## View my Digital Clock
 [Click Here](https://graceec.github.io/DigitalClock/)
 
-### Summary
-For my Clock application I applied the knowlege I learned to use built in objects using the Date structure as well as concatenate month, day and year. 
-
 [language.png]
+
+## Technique
+A Digital Application using HTML, CSS and JavaScript
